@@ -1,1 +1,2 @@
 1. Pierwszy commit
+2. Drugi commit
